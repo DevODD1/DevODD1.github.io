@@ -10,7 +10,7 @@
 <body>
 <nav class="navbar navbar-expand-sm navbar-dark" style="background-color:#111214">
   <div class="container-fluid ">
-    <a class="navbar-brand" href="/">Kawethra</a>
+    <a class="navbar-brand" href="/">Niyat Kaya</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -23,4 +23,9 @@
     </div>
   </div>
 </nav>
+<div class="container-fluid bg-dark">
+  <div class="container">
+    <
+   </div>
+ </div>
 </html>
