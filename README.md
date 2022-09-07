@@ -24,10 +24,15 @@
   </div>
 </nav>
 <div class="container-fluid bg-dark">
-  <div class="container">
+  <div class="container"><br>
     <div class="row">
       <div class="col-md-3">
         <img class="w-100 rounded" src="https://avatars.githubusercontent.com/u/111287609?v=4">
+        <br>
+      </div>
+      <div class="col-md-9">
+      <h4>Merhaba Ben Nihat Kaya</h4>
+      <br>
       </div>
     </div>
    </div>
