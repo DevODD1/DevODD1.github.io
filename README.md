@@ -32,7 +32,8 @@
       </div>
       <div class="col-md-9">
       <h4>Merhaba Ben Nihat Kaya</h4>
-      <br>
+      <br><p>Ben SMTAL'de Bilişim Web tasarım okuyorum.
+        12.Sınıf öğrencisiyim ve 16 yaşındayım</p>
       </div>
     </div>
    </div>
