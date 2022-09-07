@@ -25,7 +25,11 @@
 </nav>
 <div class="container-fluid bg-dark">
   <div class="container">
-    <
+    <div class="row">
+      <div class="col-md-3">
+        <img class="w-100 rounded" src="https://avatars.githubusercontent.com/u/111287609?v=4">
+      </div>
+    </div>
    </div>
  </div>
 </html>
