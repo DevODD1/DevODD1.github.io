@@ -80,7 +80,7 @@
   <div class="container">
   <hr>
   <center>
-  © FurkanCanKar 2022<br><br>
+  © Nihat Kaya 2022<br><br>
   </center>
   </div>
 </body>
